@@ -1,0 +1,11 @@
+gradio
+aiohttp
+newspaper3k
+PyPDF2
+numpy
+sentence-transformers
+rank-bm25
+groq
+python-dotenv
+ollama
+requests
