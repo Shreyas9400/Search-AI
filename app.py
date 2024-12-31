@@ -710,7 +710,7 @@ class ChatBot:
         self.score_threshold = 0.8
         self.temperature = 0.1
         self.conversation_history = []
-        self.base_url = "https://shreyas094-searxng-local.hf.space"
+        self.base_url = "http://localhost:8888/"
         self.headers = {
             "X-Searx-API-Key": "f9f07f93b37b8483aadb5ba717f556f3a4ac507b281b4ca01e6c6288aa3e3ae5"
         }
