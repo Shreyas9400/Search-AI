@@ -35,7 +35,7 @@ This application uses Gradio, SearxNG, and Groq's Llama 3.1 model (or Ollama) to
     OLLAMA_HOST=<your_ollama_host_and_port> # e.g., localhost:11434
     ```
 
-    Replace `<your_groq_api_key_1>`, `<your_groq_api_key_2>`, and `<your_ollama_host_and_port>` with your actual API keys and Ollama host details.
+    Replace `<your_groq_api_key_1>`, `<your_groq_api_key_2>`, and `<your_ollama_host_and_port>` with your actual API keys and Ollama host details (set to 114343 by default).
 
 ## Running the Application
 
